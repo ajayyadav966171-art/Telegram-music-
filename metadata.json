@@ -1,0 +1,6 @@
+{
+  "name": "TeleCloud Pro",
+  "description": "Personal cloud media server using Telegram as storage backend with music/video streaming, smart sync, and frosted glass PWA UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,22 @@
+{
+  "short_name": "TeleCloud",
+  "name": "TeleCloud Pro - Telegram Media Server",
+  "description": "Infinite Cloud Storage & Media Streaming via Private Telegram Channel",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#020617",
+  "theme_color": "#2563eb",
+  "display": "standalone",
+  "orientation": "any"
+}
