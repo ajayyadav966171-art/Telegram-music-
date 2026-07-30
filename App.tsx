@@ -1,15 +1,15 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
-import { Sidebar } from './components/Sidebar';
-import { Header } from './components/Header';
-import { StatsGrid } from './components/StatsGrid';
-import { FileCard } from './components/FileCard';
-import { PlayerBar } from './components/PlayerBar';
-import { NowPlayingModal } from './components/NowPlayingModal';
-import { SettingsModal } from './components/SettingsModal';
-import { UploadModal } from './components/UploadModal';
-import { PlaylistModal } from './components/PlaylistModal';
-import { UploadQueueDrawer } from './components/UploadQueueDrawer';
+import { Sidebar } from './Sidebar';
+import { Header } from './Header';
+import { StatsGrid } from './StatsGrid';
+import { FileCard } from './FileCard';
+import { PlayerBar } from './PlayerBar';
+import { NowPlayingModal } from './NowPlayingModal';
+import { SettingsModal } from './SettingsModal';
+import { UploadModal } from './UploadModal';
+import { PlaylistModal } from './PlaylistModal';
+import { UploadQueueDrawer } from './UploadQueueDrawer';
 import { MediaFile, StorageStats, TelegramSettings, Playlist, UploadQueueItem } from './types';
 import { Sparkles, RefreshCw, Filter, Music, Video, FileText, Image, Box, Heart, ArrowUpDown, ShieldCheck, Play, Pause, X } from 'lucide-react';
 
